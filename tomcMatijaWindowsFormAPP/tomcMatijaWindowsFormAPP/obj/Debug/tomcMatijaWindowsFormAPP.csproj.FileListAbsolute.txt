@@ -1,0 +1,9 @@
+C:\Users\Matija\source\repos\tomcMatijaWindowsFormAPP\tomcMatijaWindowsFormAPP\bin\Debug\tomcMatijaWindowsFormAPP.exe.config
+C:\Users\Matija\source\repos\tomcMatijaWindowsFormAPP\tomcMatijaWindowsFormAPP\bin\Debug\tomcMatijaWindowsFormAPP.exe
+C:\Users\Matija\source\repos\tomcMatijaWindowsFormAPP\tomcMatijaWindowsFormAPP\bin\Debug\tomcMatijaWindowsFormAPP.pdb
+C:\Users\Matija\source\repos\tomcMatijaWindowsFormAPP\tomcMatijaWindowsFormAPP\obj\Debug\tomcMatijaWindowsFormAPP.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaWindowsFormAPP\tomcMatijaWindowsFormAPP\obj\Debug\tomcMatijaWindowsFormAPP.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaWindowsFormAPP\tomcMatijaWindowsFormAPP\obj\Debug\tomcMatijaWindowsFormAPP.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaWindowsFormAPP\tomcMatijaWindowsFormAPP\obj\Debug\tomcMatijaWindowsFormAPP.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaWindowsFormAPP\tomcMatijaWindowsFormAPP\obj\Debug\tomcMatijaWindowsFormAPP.exe
+C:\Users\Matija\source\repos\tomcMatijaWindowsFormAPP\tomcMatijaWindowsFormAPP\obj\Debug\tomcMatijaWindowsFormAPP.pdb
